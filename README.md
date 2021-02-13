@@ -16,7 +16,7 @@ and understand the given data data by going through the descriptions given in
 *[Autolib dataset description](https://drive.google.com/a/moringaschool.com/file/d/13DXF2CFWQLeYxxHFekng8HJnH_jtbfpN/view?usp=sharing)
 
 ## Technologies Used
-Work environment: Google colab  
+Work environment: Colab notebook 
 Programming language: Python  
 Libraries: Pandas and Numpy  
 ## Support and contact details
